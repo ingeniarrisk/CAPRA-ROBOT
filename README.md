@@ -16,7 +16,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 
 | Domain | Application | Description | Current Version | Release |
 |---|---|---|:---:|:---:|
-| **Seismic Hazard** | **Strong Motion Analyst (SMA)** | Processing and analysis of seismological and seismic strong-motion data. | 1.4.0 | [View release](RELEASE_LINK) |
+| **Seismic Hazard** | **Strong Motion Analyst (SMA)** | Processing and analysis of seismological and seismic strong-motion data. | 1.4.0 | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMA-v1.4.0) |
 | **Seismic Hazard** | **Seismic Microzonation Studio (SMS)** | Evaluation of local site effects, dynamic soil response, and seismic microzonation within complete geological environments. | VERSION | [View release](RELEASE_LINK) |
 | **Climate Modelling, Drought and Wildfire Hazard** | **Drought Pro** | Modelling of meteorological time series, agricultural drought, and wildfire hazard. | VERSION | [View release](RELEASE_LINK) |
 | **Tropical Cyclone Hazard** | **Tropical Cyclone Hazard Modeler (TCHM)** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | VERSION | [View release](RELEASE_LINK) |
