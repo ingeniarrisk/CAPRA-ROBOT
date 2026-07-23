@@ -19,7 +19,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 | <img src="assets/logos/sma.png" width="42"> | **Strong Motion Analyst (SMA)** | **Seismic Hazard** | Processing and analysis of seismological and seismic strong-motion data. | **1.4.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMA-v1.4.0) |
 | <img src="assets/logos/sms.png" width="42"> | **Seismic Microzonation Studio (SMS)** | **Seismic Hazard** | Evaluation of local site effects, dynamic soil response, and seismic microzonation within complete geological environments. | **1.2.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMS-v1.2.0) |
 | <img src="assets/logos/droughtpro.png" width="42"> | **Drought Pro** | **Climate Modelling, Drought and Wildfire Hazard** | Modelling of meteorological time series, agricultural drought, and wildfire hazard. | **1.5.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/DroughtPro-v1.5.0) |
-| <img src="assets/logos/tchm.png" width="42"> | **Tropical Cyclone Hazard Modeler (TCHM)** | **Tropical Cyclone Hazard** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/tchm.png" width="42"> | **Tropical Cyclone Hazard Modeler (TCHM)** | **Tropical Cyclone Hazard** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | **1.0.2** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/TCHM-v1.0.2) |
 | <img src="assets/logos/vhast.png" width="42"> | **Volcanic Hazard Analysis and Simulation Tool (VHAST)** | **Volcanic Hazard** | Probabilistic volcanic hazard modelling for ashfall, lahars, pyroclastic flows, ballistic projectiles, and lava flows. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/lhm.png" width="42"> | **Landslide Hazard Mapper (LHM)** | **Landslide Hazard** | Probabilistic landslide hazard modelling using neural-network-based methods. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/flooding-analyst.png" width="42"> | **Flooding Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS 5. | **VERSION** | [View release](RELEASE_LINK) |
@@ -78,7 +78,7 @@ It provides tools for the visualization, processing, interpretation, and analysi
 **Current version:** 1.4.0  
 **Platform:** Microsoft Windows 10 and Windows 11
 
-[**View Strong Motion Analyst release**](RELEASE_LINK)
+[**View Strong Motion Analyst release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMA-v1.4.0)
 
 ---
 
@@ -92,7 +92,7 @@ It supports the evaluation of local site effects, dynamic soil response, and sei
 **Current version:** VERSION  
 **Platform:** Microsoft Windows 10 and Windows 11
 
-[**View Seismic Microzonation Studio release**](RELEASE_LINK)
+[**View Seismic Microzonation Studio release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMS-v1.2.0)
 
 ---
 
@@ -106,7 +106,7 @@ It supports the processing and simulation of climate information and the probabi
 **Current version:** VERSION  
 **Platform:** Microsoft Windows
 
-[**View Drought Pro release**](RELEASE_LINK)
+[**View Drought Pro release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/DroughtPro-v1.5.0)
 
 ---
 
@@ -126,7 +126,7 @@ It can be used to generate probabilistic hazard information for catastrophe risk
 **Current version:** VERSION  
 **Platform:** Microsoft Windows
 
-[**View Tropical Cyclone Hazard Modeler release**](RELEASE_LINK)
+[**View Tropical Cyclone Hazard Modeler release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/TCHM-v1.0.2)
 
 ---
 
