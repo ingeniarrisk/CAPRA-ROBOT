@@ -14,18 +14,18 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 
 ## Software Catalog
 
-| Domain | Application | Description | Current Version | Release |
-|---|---|---|:---:|:---:|
-| **Seismic Hazard** | **Strong Motion Analyst (SMA)** | Processing and analysis of seismological and seismic strong-motion data. | 1.4.0 | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMA-v1.4.0) |
-| **Seismic Hazard** | **Seismic Microzonation Studio (SMS)** | Evaluation of local site effects, dynamic soil response, and seismic microzonation within complete geological environments. | VERSION | [View release](RELEASE_LINK) |
-| **Climate Modelling, Drought and Wildfire Hazard** | **Drought Pro** | Modelling of meteorological time series, agricultural drought, and wildfire hazard. | VERSION | [View release](RELEASE_LINK) |
-| **Tropical Cyclone Hazard** | **Tropical Cyclone Hazard Modeler (TCHM)** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | VERSION | [View release](RELEASE_LINK) |
-| **Volcanic Hazard** | **Volcanic Hazard Analysis and Simulation Tool (VHAST)** | Probabilistic volcanic hazard modelling for ashfall, lahars, pyroclastic flows, ballistic projectiles, and lava flows. | VERSION | [View release](RELEASE_LINK) |
-| **Landslide Hazard** | **Landslide Hazard Mapper (LHM)** | Probabilistic landslide hazard modelling using neural-network-based methods. | VERSION | [View release](RELEASE_LINK) |
-| **Flood Hazard** | **Flooding Analyst** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS 5. | VERSION | [View release](RELEASE_LINK) |
-| **Vulnerability Modelling** | **Vulnerability Studio** | Development of vulnerability functions for buildings and infrastructure systems. | VERSION | [View release](RELEASE_LINK) |
-| **Risk Assessment** | **RiskOne** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | VERSION | [View release](RELEASE_LINK) |
-| **File and Data Management** | **FileCAT** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | VERSION | [View release](RELEASE_LINK) |
+| <div align="center">Application</div> |  | Domain | Description | Current Version | Release |
+|:---:|:---|---|---|:---:|:---:|
+| <img src="assets/logos/sma.png" width="42"> | **Strong Motion Analyst (SMA)** | **Seismic Hazard** | Processing and analysis of seismological and seismic strong-motion data. | **1.4.0** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/sms.png" width="42"> | **Seismic Microzonation Studio (SMS)** | **Seismic Hazard** | Evaluation of local site effects, dynamic soil response, and seismic microzonation within complete geological environments. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/droughtpro.png" width="42"> | **Drought Pro** | **Climate Modelling, Drought and Wildfire Hazard** | Modelling of meteorological time series, agricultural drought, and wildfire hazard. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/tchm.png" width="42"> | **Tropical Cyclone Hazard Modeler (TCHM)** | **Tropical Cyclone Hazard** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/vhast.png" width="42"> | **Volcanic Hazard Analysis and Simulation Tool (VHAST)** | **Volcanic Hazard** | Probabilistic volcanic hazard modelling for ashfall, lahars, pyroclastic flows, ballistic projectiles, and lava flows. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/lhm.png" width="42"> | **Landslide Hazard Mapper (LHM)** | **Landslide Hazard** | Probabilistic landslide hazard modelling using neural-network-based methods. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/flooding-analyst.png" width="42"> | **Flooding Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS 5. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/vulnerability-studio.png" width="42"> | **Vulnerability Studio** | **Vulnerability Modelling** | Development of vulnerability functions for buildings and infrastructure systems. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **VERSION** | [View release](RELEASE_LINK) |
 
 > Replace `VERSION` and `RELEASE_LINK` as each application is published.
 
