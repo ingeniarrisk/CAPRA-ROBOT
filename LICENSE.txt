@@ -1,1 +1,195 @@
+CAPRA-ROBOT FREEWARE LICENSE
 
+Version 1.0
+
+Copyright © INGENIAR CAD/CAE Ltd. All rights reserved.
+
+SCOPE
+
+This license governs the use and distribution of CAPRA-ROBOT, including its executable applications, software components, libraries, documentation, and other materials distributed as part of the CAPRA-ROBOT software suite (collectively, the “Software”).
+
+CAPRA-ROBOT is proprietary, closed-source software developed and distributed by INGENIAR CAD/CAE Ltd.
+
+The Software is made available free of charge subject to the terms and conditions of this license.
+
+GRANT OF LICENSE
+
+Subject to compliance with this license, INGENIAR CAD/CAE Ltd. grants users a worldwide, non-exclusive, royalty-free license to download, install, execute, and use the Software.
+
+The Software may be used for any lawful purpose, including, without limitation:
+
+Academic and scientific research;
+Education and training;
+Governmental and public-sector activities;
+Non-profit activities;
+Professional and consulting activities;
+Commercial activities; and
+Disaster risk assessment, catastrophe risk modelling, engineering analysis, and related applications.
+
+No fee or separate authorization from INGENIAR CAD/CAE Ltd. is required for such uses, unless otherwise expressly agreed in writing for specific services, support, data, models, customized developments, or other products not covered by this license.
+
+Nothing in this license restricts users from charging for professional, consulting, research, educational, engineering, analytical, or other services performed using CAPRA-ROBOT, provided that all applicable terms of this license are observed.
+
+REDISTRIBUTION
+
+Redistribution of the Software is permitted, provided that:
+
+a. The Software is redistributed in its original, unmodified form;
+
+b. This license and all copyright, attribution, authorship, trademark, and proprietary notices included with the Software are retained and distributed together with the Software;
+
+c. INGENIAR CAD/CAE Ltd. is clearly identified as the rights holder and original official distributor of CAPRA-ROBOT;
+
+d. Redistributed copies include a reference or link to the official CAPRA-ROBOT distribution repository or official website, where recipients can obtain information about the latest authorized version of the Software;
+
+e. The Software is not represented as having been developed, owned, endorsed, certified, or officially distributed by any third party; and
+
+f. No fee is charged specifically for CAPRA-ROBOT itself.
+
+Redistribution of unmodified copies of CAPRA-ROBOT as part of educational activities, research activities, professional projects, institutional repositories, or other lawful activities is permitted subject to the conditions above.
+
+The inclusion of CAPRA-ROBOT in a commercial service, consulting engagement, educational activity, research project, or other paid activity does not constitute a prohibited sale of the Software, provided that the fee charged relates to the services, activities, or products provided and not to the licensing or sale of CAPRA-ROBOT itself.
+
+PROPRIETARY RIGHTS AND SOURCE CODE
+
+CAPRA-ROBOT is proprietary, closed-source software.
+
+This license does not grant access to, or any rights over, the source code of the Software.
+
+All intellectual property rights, copyrights, and other proprietary rights in and to CAPRA-ROBOT remain with INGENIAR CAD/CAE Ltd. and, where applicable, with the respective original authors or rights holders of third-party components.
+
+To the maximum extent permitted by applicable law, users may not:
+
+Modify, adapt, translate, alter, or create derivative versions of the Software;
+Decompile, disassemble, reverse engineer, or otherwise attempt to derive or reconstruct the source code, algorithms, internal structure, or implementation of the Software;
+Circumvent or attempt to circumvent technical protections, licensing mechanisms, or access controls that may be incorporated into the Software;
+Remove, obscure, or alter copyright, authorship, attribution, trademark, license, or proprietary notices;
+Represent CAPRA-ROBOT, or any part thereof, as their own software or product;
+Sell, sublicense, license, rent, lease, or otherwise commercially distribute CAPRA-ROBOT itself as a standalone software product; or
+Use the name CAPRA-ROBOT in connection with a modified, derivative, or unauthorized version of the Software.
+
+No rights are granted under this license except those expressly stated herein.
+
+ATTRIBUTION AND CITATION
+
+Use of CAPRA-ROBOT must be appropriately acknowledged in any scientific publication, technical report, academic work, professional study, public document, presentation, dataset, analytical product, or other publicly disseminated material substantially based on analyses or results generated using the Software.
+
+Such acknowledgment must identify CAPRA-ROBOT as the software used and INGENIAR CAD/CAE Ltd. as its rights holder and developer.
+
+A recommended acknowledgment is:
+
+“Risk analyses were performed using CAPRA-ROBOT, developed by INGENIAR CAD/CAE Ltd.”
+
+Equivalent wording may be used provided that CAPRA-ROBOT and INGENIAR CAD/CAE Ltd. are clearly and accurately identified.
+
+Where a recommended formal citation for CAPRA-ROBOT is provided in the official software distribution, documentation, or repository, that citation must be included in scientific publications, technical reports, academic works, and other materials for which formal bibliographic citation is reasonably applicable.
+
+All redistributed copies of CAPRA-ROBOT must retain the original copyright notice, license, attribution information, and other proprietary notices included with the Software.
+
+Acknowledgment or citation of CAPRA-ROBOT does not imply endorsement, certification, participation, review, approval, or validation by INGENIAR CAD/CAE Ltd. of the analyses performed, methodologies selected, results obtained, conclusions reached, decisions made, or products prepared by users of the Software.
+
+DATA, MODELS, AND THIRD-PARTY CONTENT
+
+This license applies to the CAPRA-ROBOT Software itself and to materials expressly identified as being distributed under this license.
+
+Datasets, hazard models, exposure databases, vulnerability functions, computational models, third-party software libraries, example datasets, geographic information, scientific data, or other materials distributed with, accessed through, or used by CAPRA-ROBOT may be subject to separate licenses, terms of use, copyrights, attribution requirements, or other restrictions.
+
+Unless expressly stated otherwise, the inclusion of or compatibility with such materials does not imply that they are owned by INGENIAR CAD/CAE Ltd. or licensed under this CAPRA-ROBOT Freeware License.
+
+Users are solely responsible for identifying and complying with any applicable licenses, intellectual property rights, attribution requirements, and terms governing third-party or separately licensed materials.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, INGENIAR CAD/CAE LTD. DISCLAIMS ALL WARRANTIES, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, RELIABILITY, PERFORMANCE, NON-INFRINGEMENT, OR SUITABILITY OF THE SOFTWARE OR ITS RESULTS FOR ANY PARTICULAR APPLICATION.
+
+INGENIAR CAD/CAE LTD. DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, SECURE, OR COMPATIBLE WITH ALL COMPUTER SYSTEMS, OPERATING SYSTEMS, DATASETS, MODELS, SOFTWARE COMPONENTS, OR APPLICATIONS.
+
+INGENIAR CAD/CAE LTD. DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, VALIDITY, OR FITNESS FOR PURPOSE OF ANY RESULTS GENERATED USING CAPRA-ROBOT.
+
+RESPONSIBILITY FOR USE AND INTERPRETATION OF RESULTS
+
+CAPRA-ROBOT is an analytical and computational tool intended to support catastrophe risk assessment, disaster risk modelling, engineering analysis, scientific research, professional practice, education, and related applications.
+
+Results generated using the Software depend on numerous factors, including input data, assumptions, models, methodologies, parameters, computational procedures, model limitations, uncertainties, and user decisions.
+
+Users are solely responsible for:
+
+Selecting appropriate data, models, methodologies, assumptions, and parameters;
+Verifying the quality, accuracy, and suitability of input data;
+Determining the suitability of the Software and its methodologies for their intended application;
+Reviewing, verifying, validating, and interpreting results;
+Identifying, assessing, communicating, and appropriately considering uncertainties and limitations;
+Obtaining any independent professional review or verification required for the intended application; and
+Making any decisions based on results generated using the Software.
+
+Use of CAPRA-ROBOT does not constitute certification, professional advice, engineering approval, financial advice, insurance advice, regulatory approval, or any guarantee regarding the accuracy of catastrophe risk estimates, future events, losses, damages, or other outcomes.
+
+Users must exercise appropriate professional judgment when using or relying upon results generated by CAPRA-ROBOT.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, INGENIAR CAD/CAE LTD., ITS AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, DEVELOPERS, CONTRIBUTORS, AUTHORS, AND DISTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES OR LOSSES ARISING FROM OR RELATED TO THE DOWNLOAD, INSTALLATION, USE, INABILITY TO USE, MISUSE, OR RELIANCE UPON THE SOFTWARE OR ANY RESULTS GENERATED USING THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, DAMAGES OR LOSSES ARISING FROM ENGINEERING, FINANCIAL, INSURANCE, REINSURANCE, RISK-TRANSFER, INVESTMENT, POLICY, PLANNING, REGULATORY, EMERGENCY MANAGEMENT, DISASTER RISK REDUCTION, INFRASTRUCTURE, DESIGN, CONSTRUCTION, OR OTHER DECISIONS MADE USING OR RELYING UPON CAPRA-ROBOT OR RESULTS GENERATED USING THE SOFTWARE.
+
+INGENIAR CAD/CAE LTD. SHALL NOT BE RESPONSIBLE FOR ERRORS OR LOSSES RESULTING FROM INACCURATE OR INCOMPLETE INPUT DATA, INAPPROPRIATE MODEL SELECTION, USER CONFIGURATION, USER INTERPRETATION, THIRD-PARTY DATA OR MODELS, SOFTWARE OR HARDWARE FAILURES, OR USE OF THE SOFTWARE OUTSIDE ITS INTENDED OR REASONABLE APPLICATION.
+
+Users assume full responsibility and risk for the use and interpretation of the Software and its outputs.
+
+NAME, IDENTITY, AND TRADEMARKS
+
+The names “CAPRA-ROBOT”, “CAPRA”, “INGENIAR”, associated logos, and other identifying names, marks, or branding may be protected names, trademarks, or proprietary identifiers.
+
+This license does not grant permission to use such names, logos, or marks in a manner that suggests sponsorship, certification, endorsement, partnership, authorization, or official affiliation with INGENIAR CAD/CAE Ltd. without prior written authorization.
+
+Accurate attribution, citation, and factual references identifying CAPRA-ROBOT as the software used in an analysis, project, publication, or other work are permitted and, where applicable, required under Section 5 of this license.
+
+TERMINATION
+
+The rights granted under this license automatically terminate if a user materially violates its terms.
+
+Upon termination, the user must cease any unauthorized use or distribution of the Software and, where applicable, remove unauthorized copies or distributions under the user’s control.
+
+Termination of rights under this license does not affect obligations that by their nature should survive termination, including obligations concerning intellectual property, attribution, disclaimers, responsibility for use, and limitation of liability.
+
+INGENIAR CAD/CAE Ltd. may, at its discretion, restore rights under this license after the violation has been corrected.
+
+CHANGES AND FUTURE VERSIONS
+
+INGENIAR CAD/CAE Ltd. may release future versions of CAPRA-ROBOT under revised or different license terms.
+
+Each version of CAPRA-ROBOT remains subject to the license distributed with that specific version.
+
+Changes to the license applicable to future versions do not retroactively modify the license terms applicable to previously distributed versions, unless expressly agreed otherwise.
+
+ACCEPTANCE
+
+By downloading, installing, copying, redistributing, or using CAPRA-ROBOT, the user acknowledges and agrees to the terms and conditions of this license.
+
+If the user does not agree with these terms, the user must not download, install, copy, redistribute, or use the Software.
+
+CONTACT AND OFFICIAL DISTRIBUTION
+
+Rights holder:
+
+INGENIAR CAD/CAE Ltd.
+
+Official CAPRA-ROBOT website:
+
+https://ingeniar-risk.com/servicios/software/modulos-del-capra-robot/
+
+Official CAPRA-ROBOT distribution repository:
+
+https://github.com/ingeniarrisk/CAPRA-ROBOT
+
+Licensing and permissions inquiries:
+
+ingeniar@ingeniar-risk.com
+
+CAPRA-ROBOT Freeware License
+Version 1.0
+
+Copyright © INGENIAR CAD/CAE Ltd.
+All rights reserved.
