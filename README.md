@@ -2,8 +2,6 @@
   <img src="CAPRA-ROBOT-logo.png" alt="CAPRA-ROBOT" width="500">
 </p>
 
-# CAPRA-ROBOT
-
 **CAPRA-ROBOT** is a comprehensive software suite for catastrophe risk modelling and probabilistic risk assessment, developed by **INGENIAR CAD/CAE Ltd.**
 
 The suite comprises a collection of specialized software applications covering hazard assessment, climate modelling, vulnerability analysis, loss estimation, probabilistic risk calculation, and supporting data-management processes.
