@@ -16,7 +16,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 
 | <div align="center">Application</div> |  | Domain | Description | Current Version | Release |
 |:---:|:---|---|---|:---:|:---:|
-| <img src="assets/logos/sma.png" width="42"> | **Strong Motion Analyst (SMA)** | **Seismic Hazard** | Processing and analysis of seismological and seismic strong-motion data. | **1.4.0** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/sma.png" width="42"> | **Strong Motion Analyst (SMA)** | **Seismic Hazard** | Processing and analysis of seismological and seismic strong-motion data. | **1.4.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMA-v1.4.0) |
 | <img src="assets/logos/sms.png" width="42"> | **Seismic Microzonation Studio (SMS)** | **Seismic Hazard** | Evaluation of local site effects, dynamic soil response, and seismic microzonation within complete geological environments. | **1.2.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMS-v1.2.0) |
 | <img src="assets/logos/droughtpro.png" width="42"> | **Drought Pro** | **Climate Modelling, Drought and Wildfire Hazard** | Modelling of meteorological time series, agricultural drought, and wildfire hazard. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/tchm.png" width="42"> | **Tropical Cyclone Hazard Modeler (TCHM)** | **Tropical Cyclone Hazard** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | **VERSION** | [View release](RELEASE_LINK) |
