@@ -27,7 +27,6 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 | <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **VERSION** | [View release](RELEASE_LINK) |
 
-> Replace `VERSION` and `RELEASE_LINK` as each application is published.
 
 ---
 
