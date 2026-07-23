@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CAPRA-ROBOT-logo.png" alt="CAPRA-ROBOT" width="500">
+  <img src="assets/logos/CAPRA-ROBOT-logo.png" alt="CAPRA-ROBOT" width="500">
 </p>
 
 **CAPRA-ROBOT** is a comprehensive software suite for catastrophe risk modelling and probabilistic risk assessment, developed by **INGENIAR CAD/CAE Ltd.**
