@@ -24,7 +24,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 | <img src="assets/logos/lhm.png" width="42"> | **Landslide Hazard Mapper (LHM)** | **Landslide Hazard** | Probabilistic landslide hazard modelling using neural-network-based methods. | **1.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/LHM-v1.0.0) |
 | <img src="assets/logos/flooding-analyst.png" width="42"> | **Flooding Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS 5. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/vulnerability-studio.png" width="42"> | **Vulnerability Studio** | **Vulnerability Modelling** | Development of vulnerability functions for buildings and infrastructure systems. | **1.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/VS-v1.0.0) |
-| <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **4.0.11** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/RiskOne-v4.0.11) |
 | <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **VERSION** | [View release](RELEASE_LINK) |
 
 
@@ -198,10 +198,10 @@ It supports the definition, analysis, visualization, and implementation of physi
 It performs probabilistic risk calculations by integrating hazard, exposure, and vulnerability information to estimate physical damage and economic losses.
 
 **Domain:** Risk Assessment  
-**Current version:** VERSION  
+**Current version:** 4.0.11  
 **Platform:** Microsoft Windows
 
-[**View RiskOne release**](RELEASE_LINK)
+[**View RiskOne release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/RiskOne-v4.0.11)
 
 ---
 
