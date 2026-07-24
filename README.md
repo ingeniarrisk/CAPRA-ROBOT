@@ -25,7 +25,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 | <img src="assets/logos/flooding-analyst.png" width="42"> | **Flooding Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS 5. | **VERSION** | [View release](RELEASE_LINK) |
 | <img src="assets/logos/vulnerability-studio.png" width="42"> | **Vulnerability Studio** | **Vulnerability Modelling** | Development of vulnerability functions for buildings and infrastructure systems. | **1.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/VS-v1.0.0) |
 | <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **4.0.11** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/RiskOne-v4.0.11) |
-| <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **3.0.1** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/FileCAT-v3.0.1) |
 
 
 ---
@@ -212,10 +212,10 @@ It performs probabilistic risk calculations by integrating hazard, exposure, and
 It facilitates the administration, organization, and preparation of files required by different CAPRA-ROBOT applications.
 
 **Domain:** File and Data Management  
-**Current version:** VERSION  
+**Current version:** 3.0.1  
 **Platform:** Microsoft Windows
 
-[**View FileCAT release**](RELEASE_LINK)
+[**View FileCAT release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/FileCAT-v3.0.1)
 
 ---
 
