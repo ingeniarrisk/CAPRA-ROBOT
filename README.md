@@ -88,7 +88,7 @@ It provides tools for the visualization, processing, interpretation, and analysi
 It supports the evaluation of local site effects, dynamic soil response, and seismic microzonation.
 
 **Domain:** Seismic Hazard  
-**Current version:** VERSION  
+**Current version:** 1.2.0  
 **Platform:** Microsoft Windows 10 and Windows 11
 
 [**View Seismic Microzonation Studio release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/SMS-v1.2.0)
@@ -102,7 +102,7 @@ It supports the evaluation of local site effects, dynamic soil response, and sei
 It supports the processing and simulation of climate information and the probabilistic assessment of drought and wildfire-related conditions.
 
 **Domain:** Climate Modelling, Drought and Wildfire Hazard  
-**Current version:** VERSION  
+**Current version:** 1.5.0  
 **Platform:** Microsoft Windows
 
 [**View Drought Pro release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/DroughtPro-v1.5.0)
@@ -122,7 +122,7 @@ The application supports the simulation and assessment of the principal physical
 It can be used to generate probabilistic hazard information for catastrophe risk assessment, engineering analysis, and disaster risk management applications.
 
 **Domain:** Tropical Cyclone Hazard  
-**Current version:** VERSION  
+**Current version:** 1.0.2  
 **Platform:** Microsoft Windows
 
 [**View Tropical Cyclone Hazard Modeler release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/TCHM-v1.0.2)
@@ -142,7 +142,7 @@ The application supports the assessment of:
 - Lava flows
 
 **Domain:** Volcanic Hazard  
-**Current version:** VERSION  
+**Current version:** 3.0.0  
 **Platform:** Microsoft Windows
 
 [**View VHAST release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/VHAST-v3.0.0)
