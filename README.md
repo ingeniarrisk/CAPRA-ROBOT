@@ -22,7 +22,7 @@ CAPRA-ROBOT applications are distributed free of charge as proprietary, closed-s
 | <img src="assets/logos/tchm.png" width="42"> | **Tropical Cyclone Hazard Modeler (TCHM)** | **Tropical Cyclone Hazard** | Probabilistic tropical cyclone hazard modelling, including wind fields, storm surge, and rainfall. | **1.0.2** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/TCHM-v1.0.2) |
 | <img src="assets/logos/vhast.png" width="42"> | **Volcanic Hazard Analysis and Simulation Tool (VHAST)** | **Volcanic Hazard** | Probabilistic volcanic hazard modelling for ashfall, lahars, pyroclastic flows, ballistic projectiles, and lava flows. | **3.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/VHAST-v3.0.0) |
 | <img src="assets/logos/lhm.png" width="42"> | **Landslide Hazard Mapper (LHM)** | **Landslide Hazard** | Probabilistic landslide hazard modelling using neural-network-based methods. | **1.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/LHM-v1.0.0) |
-| <img src="assets/logos/flooding-analyst.png" width="42"> | **Flooding Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS. | **VERSION** | [View release](RELEASE_LINK) |
+| <img src="assets/logos/flooding-analyst.png" width="42"> | **Flood Analyst** | **Flood Hazard** | Probabilistic flood hazard modelling integrating hydrological analysis and hydraulic modelling with HEC-RAS. | **2.0.1** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/FloodAnalyst-v2.0.1) |
 | <img src="assets/logos/vulnerability-studio.png" width="42"> | **Vulnerability Studio** | **Vulnerability Modelling** | Development of vulnerability functions for buildings and infrastructure systems. | **1.0.0** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/VS-v1.0.0) |
 | <img src="assets/logos/riskone.png" width="42"> | **RiskOne** | **Risk Assessment** | CAPRA-ROBOT computational engine for probabilistic catastrophe risk assessment and loss calculation. | **4.0.11** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/RiskOne-v4.0.11) |
 | <img src="assets/logos/filecat.png" width="42"> | **FileCAT** | **File and Data Management** | Supporting tool for managing files, datasets, and information structures used by the CAPRA-ROBOT platform. | **3.0.1** | [View release](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/FileCAT-v3.0.1) |
@@ -163,17 +163,17 @@ It supports the identification and assessment of landslide susceptibility and ha
 
 ---
 
-### Flooding Analyst
+### Flood Analyst
 
-**Flooding Analyst** is a software application for probabilistic flood hazard modelling.
+**Flood Analyst** is a software application for probabilistic flood hazard modelling.
 
 The application includes a hydrological analysis module and hydraulic modelling capabilities integrated with **HEC-RAS**.
 
 **Domain:** Flood Hazard  
-**Current version:** VERSION  
+**Current version:** 2.0.1  
 **Platform:** Microsoft Windows
 
-[**View Flooding Analyst release**](RELEASE_LINK)
+[**View Flood Analyst release**](https://github.com/ingeniarrisk/CAPRA-ROBOT/releases/tag/FloodAnalyst-v2.0.1)
 
 ---
 
